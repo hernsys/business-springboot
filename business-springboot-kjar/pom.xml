@@ -24,11 +24,6 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.jbpm.contrib</groupId>
-			<artifactId>riot-workitem</artifactId>
-			<version>${version.org.kie}</version>
-			<scope>provided</scope>
-		</dependency>
 
 	</dependencies>
 
