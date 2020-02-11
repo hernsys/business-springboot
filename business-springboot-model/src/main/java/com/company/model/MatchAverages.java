@@ -4,7 +4,11 @@ import java.io.Serializable;
 
 public class MatchAverages implements Serializable {
 
-    private int totalMatches = 0;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 5860721118125942808L;
+	private int totalMatches = 0;
     private int totalBaronKills = 0;
     private int totalDragonKills = 0;
     private int totalFirstBlood = 0;
